@@ -4,7 +4,7 @@ Los punteros en c son una de las características más útiles de este lenguaje,
 
 Un puntero es una variable que apunta a la dirección de memoria de otra variable
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Representación de estructura de memoria del ejemplo</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Representación de estructura de memoria del ejemplo</p></figcaption></figure>
 
 Como podemos ver en la imagen anterior, la variable situada en la dirección 200 (el recuadro amarillo) guarda la dirección de memoria de la variable n1 (en la dirección 100).
 
@@ -92,7 +92,7 @@ Los arrays son punteros y los punteros son arrays, pero expresados de manera dif
 
 Al fin y al cabo, un array es una serie de espacios en memoria que pueden guardar tantos valores del tipo de dato especificado como huecos haya. Puesto que esto se guarda consecutivamente, podemos hacer uso de los punteros y de su capacidad para apuntar a direcciones de memoria contiguas para acceder a los diferentes valores de un array.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Representación de estructura de memoria de un vector de 4 posiciones</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Representación de estructura de memoria de un vector de 4 posiciones</p></figcaption></figure>
 
 Cuando declaramos un array, lo que realmente declaramos aunque no lo sepamos es un puntero a la primera posición de este. Es por esto que, para acceder a la segunda posición, tendríamos que acceder a la primera +1 (4 bytes por encima de la primera).
 
