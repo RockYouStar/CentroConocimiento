@@ -25,3 +25,9 @@ Estas direcciones surgieron en 2012 para sustituir a las direcciones IPv4 que ya
 La aparición de estas direcciones cambio el protocolo de Internet por completo, teniendo que cambiar toda la estructura de procesamiento de la red para así poder llevar a cabo este cambio y ampliación de direcciones
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Formato de una dirección IPv6</p></figcaption></figure>
+
+Como podemos ver, una dirección IPv6 está compuesta por 8 grupos de 4 dígitos hexadecimales. Cada uno de estos dígitos tiene una equivalencia en binario a 4 bits, por lo que la cantidad de bits de una dirección de este tipo es de 128.
+
+Debido a esto, este tipo de direcciones otorgan un total de 340 sextillones de combinaciones nuevas para asignar a nuevos dispositivos, un número prácticamente incomprensible en cuanto a su magnitud.
+
+Es precisamente por eso por lo que este formato de IP se mantendrá durante un muy largo período de tiempo
