@@ -13,11 +13,6 @@
     * [TCP](basico/redes-de-computadores/protocolos/tcp.md)
   * [Comandos en Linux](basico/redes-de-computadores/comandos-en-linux.md)
 * [Programación](basico/programacion/README.md)
-  * [Python](basico/programacion/python/README.md)
-    * [Introducción](basico/programacion/python/introduccion.md)
-    * [Condicionales](basico/programacion/python/condicionales.md)
-    * [Bucles](basico/programacion/python/bucles.md)
-    * [Estructuras de datos](basico/programacion/python/estructuras-de-datos.md)
   * [C](basico/programacion/c/README.md)
     * [Variables](basico/programacion/lenguaje-c/variables.md)
     * [Condicionales](basico/programacion/lenguaje-c/condicionales.md)
@@ -33,6 +28,11 @@
     * [Herencia](basico/programacion/java/herencia.md)
     * [Estructuras de datos](basico/programacion/java/estructuras-de-datos.md)
     * [Ejercicios](basico/programacion/java/ejercicios.md)
+  * [Python](basico/programacion/python/README.md)
+    * [Introducción](basico/programacion/python/introduccion.md)
+    * [Condicionales](basico/programacion/python/condicionales.md)
+    * [Bucles](basico/programacion/python/bucles.md)
+    * [Estructuras de datos](basico/programacion/python/estructuras-de-datos.md)
 
 ## Intermedio
 
