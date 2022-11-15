@@ -4,7 +4,7 @@ Es la segmentación de red, permite crear independencia entre las redes, evitar 
 
 Cada VLAN tiene un dominio de difusión, una IP. Ahora un broadcast solamente se propagará por el dominio de la VLAN. Los host no saben que pertenecen a una VLAN, no conocen la existencia de la misma. Otra cosa es que lo sepa el usuario, pero el equipo como tal, no.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 La pertenencia a una VLAN se dice en el SWITCH, NO EN EL EQUIPO. Se puede ver que la separación física no es un impedimento para pertenencia a una VLAN.
 
