@@ -21,7 +21,7 @@ Otro uso de las condiciones booleanas es el 'in' o el 'not in', que comprueba de
 
 De este modo, para crear un condicional simplemente escribiremos if, seguido de la condición (que devuelva un valor booleano) sin paréntesis, y dos puntos para declarar el comienzo del bloque. A partir de ahí escribiremos el contenido que querremos que se ejecute si la condición booleana introducida es True.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Ejemplo de función if</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Ejemplo de función if</p></figcaption></figure>
 
 Como podemos ver, la comprobación que se lleva a cabo en el anterior ejemplo es que la variable no esté incluida en la variable visited (de tipo lista, conjunto, etc...).
 
@@ -31,6 +31,6 @@ A parte del if, podemos colocar 'else' a la misma altura que el if al que perten
 
 'else if' hace lo mismo pero llevando a cabo una nueva comprobación booleana antes de entrar a su bloque de código. Un ejemplo en el que ambos elementos se ven aplicados es el siguente:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 La ejecución de los condicionales va en orden, es decir, primero se ejecuta el 'if', luego el 'elif' y por último el 'else'. La peculiaridad de esto es que si cualquiera de estas condiciones resulta ser verdadera el resto no se ejecutará, ya que al acabar el bloque de código de la sección verdadera se saltará al final del condicional.

@@ -24,7 +24,7 @@ En C existen cinco tipos de datos según puede verse en la siguiente tabla:
 
 Además, hay cuatro modificadores de tipo, que se aplican sobre los tipos de datos mencionados anteriormente. Los modificadores de tipo permiten cambiar el tamaño, etc., de los tipos de datos. Estos modificadores, que preceden sintácticamente a la declaración del tipo de datos, son:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Por este motivo, podemos declarar variables como:
 

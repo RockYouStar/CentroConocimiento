@@ -106,7 +106,7 @@ TLS 1.3 Handshake hace todo en menos pasos (3 en vez de 5) y realiza una negocia
 
 En el paso de pedir la clave pública de un usuario legítimo, se da otra clave pública diferente. De ahí la necesidad de usar los PKI, para comprobar la legitimidad de estas claves públicas...
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### Man in the Middle
 
@@ -198,9 +198,9 @@ Cada vez que se haga side to side, conecto red entre central y sucursal, se enca
 
 De extremo a extremo (puerta a puerta), no hace falta encapsular uno dentro de otro. Creas el paquete directamente poniendo la cabecera de los equipos, y lo cifras. El cifrado viene del equipo origen.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Hace falta crear un par de asociaciones de seguridad (SAs, comunicación virtual simple que especifica los parámetros con los que cifro la comunicación) que tienen unos valores: índice de 32-bits, interfaces, origen y destino, y especifica cómo va a hacerse el túnel (cifrado, protocolo, clave de cifrado de autenticación). Se hace de forma simétrica. Se almacena en una base de datos SAD (Security Association Database, dicen el cómo) y en una SPD (Security Protocol Database, que almacena qué tráfico va cifrado por el túnel). Deben guardar estado para saber cuáles están activo y cuáles no. Un router tiene una única SAD, y otra SPD.
 
