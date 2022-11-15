@@ -26,5 +26,11 @@ Por último, si queremos devolver un valor como resultado en vez de simplemente 
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Función con nombre explore, y g como argumento</p></figcaption></figure>
 
+## Peculiaridades del lenguaje
 
+Como hemos podido comprobar a través de las anteriores capturas, algunos os habréis dado cuenta de que el fin de línea no se define con un ';', si no que no se define.
+
+Esto es algo bastante útil, ya que normalmente los ';' nos traen muchos problemas, y puesto que cualquier programador cambia de línea cuando va a escribir la siguiente línea de código, estos puntos y comas no son necesarios y crean un código más fácil y visual.
+
+Otra diferencia no muy extraña pero que nos ha parecido digna de mencionar es la función para imprimir por pantalla. Mientras que en el resto de lenguajes en su mayoria esta función tiene un nombre extraño o demasiado largo (como System.out.println()), en este maravilloso lenguaje esto es tan fácil como poner print().
 
