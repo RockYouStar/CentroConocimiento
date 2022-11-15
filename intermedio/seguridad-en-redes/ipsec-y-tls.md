@@ -198,7 +198,7 @@ Cada vez que se haga side to side, conecto red entre central y sucursal, se enca
 
 De extremo a extremo (puerta a puerta), no hace falta encapsular uno dentro de otro. Creas el paquete directamente poniendo la cabecera de los equipos, y lo cifras. El cifrado viene del equipo origen.
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
