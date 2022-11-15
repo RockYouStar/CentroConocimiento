@@ -200,7 +200,7 @@ De extremo a extremo (puerta a puerta), no hace falta encapsular uno dentro de o
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hace falta crear un par de asociaciones de seguridad (SAs, comunicación virtual simple que especifica los parámetros con los que cifro la comunicación) que tienen unos valores: índice de 32-bits, interfaces, origen y destino, y especifica cómo va a hacerse el túnel (cifrado, protocolo, clave de cifrado de autenticación). Se hace de forma simétrica. Se almacena en una base de datos SAD (Security Association Database, dicen el cómo) y en una SPD (Security Protocol Database, que almacena qué tráfico va cifrado por el túnel). Deben guardar estado para saber cuáles están activo y cuáles no. Un router tiene una única SAD, y otra SPD.
 

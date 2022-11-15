@@ -24,7 +24,7 @@ En C existen cinco tipos de datos según puede verse en la siguiente tabla:
 
 Además, hay cuatro modificadores de tipo, que se aplican sobre los tipos de datos mencionados anteriormente. Los modificadores de tipo permiten cambiar el tamaño, etc., de los tipos de datos. Estos modificadores, que preceden sintácticamente a la declaración del tipo de datos, son:
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Por este motivo, podemos declarar variables como:
 
@@ -51,3 +51,14 @@ Ejemplos:
 `#define PI 3.141592`
 
 `#define YEAR 2022`
+
+## Arrays
+
+Un array es una estructura que permite almacenar varios elementos de un mismo tipo bajo la misma variable. La declaración de un array debe también indicar su tamaño, es decir, el número máximo de elementos que entran. El índice para acceder a cada elemento empieza en 0, incrementando sucesivamente hasta "tamaño - 1".
+
+De esta forma el array:
+
+`int array[10];`
+
+Nos permite almacenar 10 enteros, pudiendo acceder desde la posición `int[0]` hasta `int[9]`.
+
