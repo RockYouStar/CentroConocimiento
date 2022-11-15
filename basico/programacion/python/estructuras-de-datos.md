@@ -32,5 +32,3 @@ Si volvemos al ejemplo del bloque introductorio:
 
 La primera línea de las sentencias dentro del primer bucle "for" está preguntando si el valor de la variable "node" no se encuentra dentro del conjunto "visited", para después, de ser así, añadirlo con el método `.add()`.
 
-## Diccionarios
-
