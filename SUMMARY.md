@@ -57,7 +57,6 @@
     * [Explotación Permisos SUID](avanzado/pentesting/escalado-de-privilegios/permisos-suid.md)
     * [Path Hijacking](avanzado/pentesting/escalado-de-privilegios/path-hijacking.md)
     * [DirtyCow](avanzado/pentesting/escalado-de-privilegios/dirtycow.md)
-    * [Bloodhound](avanzado/pentesting/escalado-de-privilegios/bloodhound.md)
   * [Ataques Web](avanzado/pentesting/ataques-web/README.md)
     * [SQL Injection](avanzado/pentesting/ataques-web/sql-injection.md)
     * [XSS](avanzado/pentesting/ataques-web/xss.md)
