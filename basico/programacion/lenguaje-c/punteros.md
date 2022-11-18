@@ -4,7 +4,7 @@ Los punteros en c son una de las características más útiles de este lenguaje,
 
 Un puntero es una variable que apunta a la dirección de memoria de otra variable
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Representación de estructura de memoria del ejemplo</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Representación de estructura de memoria del ejemplo</p></figcaption></figure>
 
 Como podemos ver en la imagen anterior, la variable situada en la dirección 200 (el recuadro amarillo) guarda la dirección de memoria de la variable n1 (en la dirección 100).
 
