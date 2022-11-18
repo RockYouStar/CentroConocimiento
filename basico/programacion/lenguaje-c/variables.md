@@ -18,7 +18,7 @@ Declaración una variable entera numero2 de tipo int:
 
 En C existen cinco tipos de datos según puede verse en la siguiente tabla:
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Modificadores de tipo
 
