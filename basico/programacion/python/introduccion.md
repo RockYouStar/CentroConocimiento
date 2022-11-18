@@ -8,7 +8,7 @@ Otra de las grandes características con las que cuenta Python es su increíblem
 
 Además, el uso de llaves para abrir y cerrar funciones, bucles, y condicionales desaparece por completo, siendo sustituido por la tabulación, de modo que todas aquellas líneas de código que estén a la misma altura pertenecerán al mismo fragmento.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Código de ejemplo</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Código de ejemplo</p></figcaption></figure>
 
 Como podemos ver en el código anterior, desde la línea 4 hasta la 7 podemos encontrar un bucle for, delimitado simplemente por la tabulación. Lo mismo pasa con el condicional if en el interior de este bucle.
 

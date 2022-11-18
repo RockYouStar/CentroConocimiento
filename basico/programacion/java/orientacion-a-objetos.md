@@ -10,6 +10,6 @@ Lo primero que tenemos que definir para entender la orientación a objetos son l
 
 Así, las clases se definen en base a sus atributos, que son los diferentes campos de variables que tienen los objetos. Por ejemplo, una clase coche tendría unos atributos como "matrícula", o "modelo", que serían específicos para cada una de las instancias de esta clase.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Declaración de una clase en Java</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Declaración de una clase en Java</p></figcaption></figure>
 
 Como podemos comprobar, antes de cada declaración de variable tenemos un campo que en este caso es 'private'. Esto quiere decir que solamente se podrá acceder a ese campo desde la propia clase, concretamente desde una de las funciones que declaremos en su interior. Esto asegura la encapsulación, ya que no deja acceder a información de los objetos desde fuera de estos. Este campo podría ser 'public' si se pudiera acceder desde fuera &#x20;
