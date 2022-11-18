@@ -54,7 +54,7 @@
         * [Evil-WinRm](avanzado/pentesting/enumeracion/enumeracion-en-windows/winrm/evil-winrm.md)
   * [Escalado de privilegios](avanzado/pentesting/escalado-de-privilegios/README.md)
     * [Explotación tareas Cron](avanzado/pentesting/escalado-de-privilegios/explotacion-tareas-cron.md)
-    * [Explotación Permisos SUID](avanzado/pentesting/escalado-de-privilegios/explotacion-permisos-suid.md)
+    * [Explotación Permisos SUID](avanzado/pentesting/escalado-de-privilegios/permisos-suid.md)
     * [Path Hijacking](avanzado/pentesting/escalado-de-privilegios/path-hijacking.md)
     * [DirtyCow](avanzado/pentesting/escalado-de-privilegios/dirtycow.md)
     * [Bloodhound](avanzado/pentesting/escalado-de-privilegios/bloodhound.md)
