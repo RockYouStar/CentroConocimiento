@@ -12,7 +12,7 @@ Para definir un bucle for es necesario defenir una variable la que cual servira 
 
 Un ejemplo de uso es el siguiente:
 
-![](../../../.gitbook/assets/for.PNG)
+<figure><img src="../../../.gitbook/assets/for.PNG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -22,4 +22,4 @@ A diferencia del bucle For, el bucle While funciona y se define igual que en otr
 
 Un ejemplo de usa será el siguiente:
 
-![](../../../.gitbook/assets/while.PNG)
+<figure><img src="../../../.gitbook/assets/while.PNG" alt=""><figcaption></figcaption></figure>
