@@ -8,7 +8,7 @@ Esto no significa que cada dispositivo tiene una dirección MAC, ya que hay algu
 
 Estas direcciones están formadas por 48 bits, representadas normalmente en hexadecimal de la siguiente manera:
 
-<figure><img src="../../.gitbook/assets/mac.PNG" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/mac.PNG)
 
 Podemos ver como los 6 primeros digitos indican el fabricante y los otros 6 el modelo.
 
