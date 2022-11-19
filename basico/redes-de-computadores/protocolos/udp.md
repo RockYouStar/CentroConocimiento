@@ -8,4 +8,4 @@ Lo más importante a comentar acerca de este protocolo es que, a diferencia de T
 
 Es precisamente por eso que el protocolo tiene unos usos muy concretos en los que se prioriza la velocidad a la "calidad". Por ejemplo, la transmisión de datos en videojuegos o el envío de videos en directo (streaming) son servicios en los que no pasa nada por que un paquete concretamente no llegue (se puede "rodear"). Sin embargo, si este envío fuera lento sería catastrófico para la calidad de la experiencia del cliente.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Comparación entre TCP y UDP</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Comparación entre TCP y UDP</p></figcaption></figure>
