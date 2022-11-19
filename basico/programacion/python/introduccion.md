@@ -24,7 +24,7 @@ Para crearlas usaremos la palabra reservada def, seguida del nombre que le quere
 
 Por último, si queremos devolver un valor como resultado en vez de simplemente llevar a cabo una modificación de un dato, usaremos return al final de la función, seguido de la variable que queramos devolver.
 
-<figure><img src="../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Función con nombre explore, y g como argumento</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Función con nombre explore, y g como argumento</p></figcaption></figure>
 
 ## Peculiaridades del lenguaje
 

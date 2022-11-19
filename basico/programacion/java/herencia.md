@@ -6,7 +6,7 @@ Las clases hijas heredan todo de la clase padre, pero solo tendrán acceso a la 
 
 Podemos crear objetos de estas clases hijas que cuenten con un funcionamiento más específico del que han heredado.
 
-![](../../../.gitbook/assets/herencia.PNG)
+<figure><img src="../../../.gitbook/assets/herencia.PNG" alt=""><figcaption></figcaption></figure>
 
 Gracias a esto contamos con una buena estructuración a la hora de crear un proyecto de programación [orientada a objetos.](orientacion-a-objetos.md)
 
