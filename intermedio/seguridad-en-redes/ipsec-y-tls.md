@@ -106,7 +106,7 @@ TLS 1.3 Handshake hace todo en menos pasos (3 en vez de 5) y realiza una negocia
 
 En el paso de pedir la clave pública de un usuario legítimo, se da otra clave pública diferente. De ahí la necesidad de usar los PKI, para comprobar la legitimidad de estas claves públicas...
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Man in the Middle
 
