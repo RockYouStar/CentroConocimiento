@@ -28,7 +28,7 @@ Un conjunto es una estructura no ordenada de elementos. Su acceso por índice ta
 
 Si volvemos al ejemplo del bloque introductorio:
 
-<figure><img src="../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 La primera línea de las sentencias dentro del primer bucle "for" está preguntando si el valor de la variable "node" no se encuentra dentro del conjunto "visited", para después, de ser así, añadirlo con el método `.add()`.
 

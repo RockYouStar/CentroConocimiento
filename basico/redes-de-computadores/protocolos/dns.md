@@ -16,6 +16,6 @@ Para llevar a cabo todo este proceso, existe una serie de servidores de DNS con 
 
 Básicamente, cada uno de los servidores de esta jerarquía está encargado de un grupo cada vez más pequeño de dominios, y se va haciendo una consulta recursiva hacia los servidores más pequeños de la jerarquía hasta que encontramos la equivalencia entre dominio e IP deseada.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 En ocasiones, no es necesario llevar a cabo toda esta serie de pasos, ya que los servidores DNS tienen buffers en los que almacenan las direcciones más requeridas, de manera que si una petición por parte de un cliente se encuentra en el buffer no es necesario preguntar a los servidores más altos de la jerarquía, si no que se devolverá la equivalencia instantáneamente, ahorrando una gran cantidad de tiempo.

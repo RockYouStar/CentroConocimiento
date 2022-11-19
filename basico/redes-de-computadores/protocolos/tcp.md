@@ -14,13 +14,13 @@ Para poder empezar o acabar de comunicarnos mediante este protocolo necesitamos 
 
 Para el establecimiento de una conexión, el cliente enviará un paquete concreto llamado SYN al servidor, que le indicará que quiere establecer una conexión TCP con él. Si todo va bien y el servidor esta disponible, responderá con un paquete SYN+ACK, informando al cliente de que si que puede crear una conexión. Cuando el cliente reciba este segundo paquete, enviará un último paquete ACK y se habrá dado por establecida la conexión.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 En cuanto al fin de la conexión, se llevará a cabo el shutdown, que tiene los siguientes pasos.&#x20;
 
 Quien quiera cerrar la conexión enviará un paquete FIN, que será recibido por el otro intermediario, quién enviará un ACK para este paquete y otro paquete FIN al primer intermediario. Cuando este lo reciba, enviará un último ACK, que será recibido por el otro cliente y se habrá dado por finalizada la conexión.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Ejemplo completo
 
