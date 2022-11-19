@@ -20,7 +20,7 @@ En cuanto al fin de la conexión, se llevará a cabo el shutdown, que tiene los 
 
 Quien quiera cerrar la conexión enviará un paquete FIN, que será recibido por el otro intermediario, quién enviará un ACK para este paquete y otro paquete FIN al primer intermediario. Cuando este lo reciba, enviará un último ACK, que será recibido por el otro cliente y se habrá dado por finalizada la conexión.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Ejemplo completo
 
