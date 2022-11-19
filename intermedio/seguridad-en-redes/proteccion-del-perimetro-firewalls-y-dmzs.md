@@ -2,7 +2,7 @@
 
 Nodos bastión: hay que protegerlos mucho. Cerrar puertos innecesarios, sistemas de logs. Son los que están en el perímetro. Al estar tan expuestos tienen que estar especialmente protegidos:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>El torreón es la torre bastión</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>El torreón es la torre bastión</p></figcaption></figure>
 
 ACL: Lista de reglas que definen que tráfico vamos a permitir y cual vamos a denegar. Es una lista de reglas ordenada. Cada una de las reglas van a filtrar que paquetes van a pasar . Se aplican en un router o firewall.
 
