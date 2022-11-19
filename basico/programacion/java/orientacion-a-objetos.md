@@ -28,7 +28,7 @@ Para crearlo escribiremos su tipo de acceso, que siempre tiene que ser 'public',
 
 Podremos crear todos los constructores que queramos, siempre y cuando no existan dos con el mismo número de argumentos, ya que si no no se podría distinguir entre ellos. Los constructores también pueden ir sin argumentos. Algunos ejemplos de implementación son los siguientes.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para crear otros métodos que no sean el constructor, usaremos un formato similar, con la diferencia de que antes del nombre del método deberemos especificar el tipo de dato que devuelve (como cualquier otra función), y el nombre deberá ser otro diferente al de la clase en la que nos encontremos
 
