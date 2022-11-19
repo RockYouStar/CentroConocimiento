@@ -63,4 +63,4 @@
     * [XXE](avanzado/pentesting/ataques-web/xxe.md)
     * [SSRF](avanzado/pentesting/ataques-web/ssrf.md)
     * [CSRF](avanzado/pentesting/ataques-web/csrf.md)
-    * [Idors](avanzado/pentesting/ataques-web/idors.md)
+    * [IDORs](avanzado/pentesting/ataques-web/idors.md)
