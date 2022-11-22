@@ -33,6 +33,7 @@
     * [Condicionales](basico/programacion/python/condicionales.md)
     * [Bucles](basico/programacion/python/bucles.md)
     * [Estructuras de datos](basico/programacion/python/estructuras-de-datos.md)
+    * [Ejercicios](basico/programacion/python/ejercicios.md)
 
 ## Intermedio
 
