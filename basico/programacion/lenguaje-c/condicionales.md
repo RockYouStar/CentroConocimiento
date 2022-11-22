@@ -1,6 +1,6 @@
 # Condicionales
 
-### Introduccin
+### Introducción
 
 Este tipo de sentencia permite modificar el flujo del programa en función de ciertas condiciones.
 
