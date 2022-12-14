@@ -42,6 +42,12 @@
   * [Virtual Local Area Network (VLAN)](intermedio/seguridad-en-redes/virtual-local-area-network-vlan.md)
   * [IPS e IDS (Prevención y detección de intrusos)](intermedio/seguridad-en-redes/ips-e-ids-prevencion-y-deteccion-de-intrusos.md)
   * [IPSec y TLS](intermedio/seguridad-en-redes/ipsec-y-tls.md)
+* [Criptografía](intermedio/criptografia/README.md)
+  * [Asimétrica](intermedio/criptografia/asimetrica/README.md)
+    * [Funciones de una vía](intermedio/criptografia/asimetrica/funciones-de-una-via.md)
+    * [RSA](intermedio/criptografia/asimetrica/rsa.md)
+  * [Simétrica](intermedio/criptografia/simetrica.md)
+  * [Compartición de secretos](intermedio/criptografia/comparticion-de-secretos.md)
 
 ## Avanzado
 
