@@ -71,3 +71,5 @@
     * [SSRF](avanzado/pentesting/ataques-web/ssrf.md)
     * [CSRF](avanzado/pentesting/ataques-web/csrf.md)
     * [IDORs](avanzado/pentesting/ataques-web/idors.md)
+* [Introducción](avanzado/introduccion.md)
+* [Bash Scripting](avanzado/bash-scripting.md)

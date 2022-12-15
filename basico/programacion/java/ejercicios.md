@@ -110,7 +110,7 @@ int[][] tabla = { { 7, 0, 2, 1, 0, 1 }, { 3, 0, 0, 2 }, { 7, 9, 0 },
       { 6, 5, 0, 1, 0, 2, 0 } };
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Salida</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Salida</p></figcaption></figure>
 
 ### Solución:
 
