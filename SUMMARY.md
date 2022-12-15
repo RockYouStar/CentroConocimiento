@@ -73,3 +73,4 @@
     * [IDORs](avanzado/pentesting/ataques-web/idors.md)
 * [Bash Scripting](avanzado/bash-scripting/README.md)
   * [Introducción](avanzado/bash-scripting/introduccion.md)
+  * [Comandos Básicos](avanzado/bash-scripting/comandos-basicos.md)

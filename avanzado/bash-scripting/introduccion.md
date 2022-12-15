@@ -19,5 +19,3 @@ La sintaxis típica es:
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Podemos introducir varios mandatos en una misma línea si los separamos por `;`
-
-``
