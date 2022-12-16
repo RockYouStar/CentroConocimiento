@@ -16,6 +16,6 @@ La sintaxis típica es:
 
 (prompt) mandato {parámetro1} {parámetro2} ...
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Podemos introducir varios mandatos en una misma línea si los separamos por `;`

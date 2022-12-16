@@ -72,5 +72,7 @@
     * [CSRF](avanzado/pentesting/ataques-web/csrf.md)
     * [IDORs](avanzado/pentesting/ataques-web/idors.md)
 * [Bash Scripting](avanzado/bash-scripting/README.md)
-  * [Introducción](avanzado/bash-scripting/introduccion.md)
+  * [Introducción](avanzado/introduccion.md)
   * [Comandos Básicos](avanzado/bash-scripting/comandos-basicos.md)
+  * [Variables](avanzado/bash-scripting/variables.md)
+  * [Redirección de entrada salida](avanzado/bash-scripting/redireccion-de-entrada-salida.md)
