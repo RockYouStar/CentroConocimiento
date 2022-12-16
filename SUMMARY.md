@@ -79,3 +79,4 @@
   * [Scripts](avanzado/bash-scripting/scripts/README.md)
     * [Condicionales](avanzado/bash-scripting/scripts/condicionales.md)
     * [Case](avanzado/bash-scripting/scripts/case.md)
+    * [For](avanzado/bash-scripting/scripts/for.md)
