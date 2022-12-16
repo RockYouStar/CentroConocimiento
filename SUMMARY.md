@@ -80,3 +80,4 @@
     * [Condicionales](avanzado/bash-scripting/scripts/condicionales.md)
     * [Case](avanzado/bash-scripting/scripts/case.md)
     * [For](avanzado/bash-scripting/scripts/for.md)
+    * [While](avanzado/bash-scripting/scripts/while.md)
