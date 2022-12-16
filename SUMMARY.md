@@ -76,3 +76,5 @@
   * [Comandos Básicos](avanzado/bash-scripting/comandos-basicos.md)
   * [Variables](avanzado/bash-scripting/variables.md)
   * [Redirección de entrada salida](avanzado/bash-scripting/redireccion-de-entrada-salida.md)
+  * [Scripts](avanzado/bash-scripting/scripts/README.md)
+    * [Condicionales](avanzado/bash-scripting/scripts/condicionales.md)
