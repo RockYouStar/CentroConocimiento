@@ -78,3 +78,4 @@
   * [Redirección de entrada salida](avanzado/bash-scripting/redireccion-de-entrada-salida.md)
   * [Scripts](avanzado/bash-scripting/scripts/README.md)
     * [Condicionales](avanzado/bash-scripting/scripts/condicionales.md)
+    * [Case](avanzado/bash-scripting/scripts/case.md)
