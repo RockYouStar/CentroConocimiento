@@ -1,2 +1,0 @@
-# Compartición de secretos
-
