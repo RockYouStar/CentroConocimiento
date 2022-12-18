@@ -48,6 +48,21 @@
     * [RSA](intermedio/criptografia/asimetrica/rsa.md)
   * [Simétrica](intermedio/criptografia/simetrica.md)
   * [Compartición de secretos](intermedio/criptografia/comparticion-de-secretos.md)
+* [Sistemas operativos](intermedio/sistemas-operativos/README.md)
+  * [Linux](intermedio/sistemas-operativos/linux/README.md)
+    * [Introducción](intermedio/sistemas-operativos/linux/introduccion.md)
+    * [Comandos](intermedio/sistemas-operativos/linux/comandos.md)
+    * [Shell](intermedio/sistemas-operativos/linux/shell.md)
+    * [Sistemas de ficheros](intermedio/sistemas-operativos/linux/sistemas-de-ficheros.md)
+  * [Windows](intermedio/sistemas-operativos/windows/README.md)
+    * [Introducción](intermedio/sistemas-operativos/windows/introduccion.md)
+    * [Servicios](intermedio/sistemas-operativos/windows/servicios.md)
+    * [Comandos](intermedio/sistemas-operativos/windows/comandos.md)
+    * [Ficheros y ejecutables](intermedio/sistemas-operativos/windows/ficheros-y-ejecutables.md)
+  * [MacOS](intermedio/sistemas-operativos/macos/README.md)
+    * [Introducción](intermedio/sistemas-operativos/macos/introduccion.md)
+    * [Origen](intermedio/sistemas-operativos/macos/origen.md)
+    * [Diferencias con Linux](intermedio/sistemas-operativos/macos/diferencias-con-linux.md)
 
 ## Avanzado
 

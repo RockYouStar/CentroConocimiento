@@ -1,0 +1,2 @@
+# Diferencias con Linux
+
