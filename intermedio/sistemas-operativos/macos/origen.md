@@ -26,7 +26,7 @@ Además, se agregó un panel de control configurable y la capacidad de mostrar c
 
 La interfaz pasó a tener colores, en contraste al blanco y negro que habíamos visto hasta ahora. Por otro lado, se añadieron notificaciones por si los programas necesitaban notificar algo al usuario.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Sistema 7
 
@@ -54,4 +54,4 @@ Es el sistema operativo de Mac tal y como lo conocemos en la actualidad.
 
 Sin embargo, siendo su primera versión 10.0 en 2001, se ha ido reinventando hasta la actualidad, mejorando enormemente en todos sus aspectos y funcionalidades llegando a lo que MacOS es hoy en día.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

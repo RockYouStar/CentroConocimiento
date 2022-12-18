@@ -13,48 +13,6 @@ $ echo "Hola, estamos imprimiendo con echo"
 Hola, estamos imprimiendo con echo
 ```
 
-## ls
-
-El comando **ls** es un comando muy básico del shell que lista la información de archivos y directorios en un sistema de archivos.
-
-### Ejemplo de uso:
-
-```bash
-$ ls
-archivo1.txt  archivo2.txt  directorio1  directorio2
-```
-
-## pwd
-
-El comando **pwd** permite saber la ruta del directorio de trabajo actual en el que nos encontramos.
-
-El comando devuelve una ruta absoluta,
-
-### Ejemplo de uso:
-
-```bash
-$ pwd
-/tmp/deleteme
-```
-
-## cd
-
-El comando **cd** permite navegar por los directorios de Linux. Podemos trabajar tanto con rutas absolutas como relativas.
-
-* **cd ..** permite ir un directorio hacia arriba
-* **cd** para ir directamente al directorio HOME
-* **cd-** para ir al directorio anterior
-
-### Ejemplo de uso:
-
-```shell
-$ ls
-archivo1.txt  archivo2.txt  directorio1  directorio2
-$ cd directorio1/
-$ pwd
-/tmp/deleteme/directorio1
-```
-
 ## cat
 
 El comando **cat** es uno de los comandos más utilizados en Linux. Se utiliza para listar el contenido de un archivo.
@@ -87,6 +45,38 @@ $ cp archivo1.txt directorio2/
 $ cd directorio2/
 $ ls
 archivo1.txt
+```
+
+## grep
+
+Permite buscar por determinados términos en el contenido de un archivo o una cadena que se le pase como argumento. Sigue la estructura:
+
+`grep opciones expresiones archivo/string`
+
+### Ejemplo de uso:
+
+```bash
+$ cat ejemplo.txt
+Linea 1
+Line 2
+Ejemplo 3
+$ grep "Line" ejemplo.txt
+Line 2
+```
+
+## find
+
+Comando de búsqueda recursiva que busca tanto en el directorio especificado como en los que subyacen al mismo, que permite buscar por otra clase de parámetros más propios de los nombres de fichero. Estructura:
+
+find directorio condiciones/opciones
+
+Ejemplo de uso:
+
+```bash
+$ find /bin/ -name "y*"
+/bin/yelp
+/bin/yes
+/bin/ypdomainname
 ```
 
 ## mv
