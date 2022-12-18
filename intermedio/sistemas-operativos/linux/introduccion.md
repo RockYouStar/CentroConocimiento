@@ -8,5 +8,5 @@ Partiendo del núcleo de GNU, existen infinidad de distribuciones que se adaptan
 
 * **Para usuarios novatos**: Debian, Ubuntu, o Linux Mint.
 * **Para disponer de herramientas de Ciberseguridad**: Kali, ParrotOS o BlackArch
-* Para ordenadores con poca potencia: Lubuntu, Puppy Linux o Linux Lite
-* Para usuarios avanzados: Red Hat Enterprise, Arch, o CentOS
+* **Para ordenadores con poca potencia**: Lubuntu, Puppy Linux o Linux Lite
+* **Para usuarios avanzados**: Red Hat Enterprise, Arch, o CentOS
