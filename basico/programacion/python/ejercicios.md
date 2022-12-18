@@ -30,7 +30,7 @@ Se puede importar la librería math y sus métodos asociados mediante:
 
 En color verde entradas por teclado, en blanco lo que sale por pantalla:
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (3).png>)
 
 ![](<../../../.gitbook/assets/image (5).png>)
 

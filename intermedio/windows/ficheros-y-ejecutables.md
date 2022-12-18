@@ -4,7 +4,7 @@
 
 En principio tengamos en cuenta que cuando hablamos de archivos informáticos, debemos saber que existen dos grandes tipos de archivos, los ejecutables y los no ejecutables, siendo la principal diferencia entre ellos que **los ejecutables han sido diseñados de forma tal que puedan funcionar por sí mismos,** mientras que los no ejecutables son aquellos archivos que guardan información y que requieren de algún software específico para poder ser utilizados.
 
-&#x20;                                          ![](../../.gitbook/assets/image.png)
+&#x20;                                          ![](<../../.gitbook/assets/image (6).png>)
 
 Por ende, **un archivo ejecutable se ejecuta en una computadora sin necesidad de que la misma posea ningún programa determinado para ello,** y una vez en funcionamiento este tipo de archivos realiza rutinas o procedimientos específicos a través de las instrucciones codificadas que incluye en su interior.
 
